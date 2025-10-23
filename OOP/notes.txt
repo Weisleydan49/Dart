@@ -1,0 +1,14 @@
+OOP uses objects
+Object is a combination of data and  : An instance of a class; it reperents real world properties with methods
+
+// Class - dog
+//Propoerties/Attributes - breed, colour
+//Methods/behaviours- run, bark (Classes are case sensitive)
+
+
+
+
+//Have a class
+//declare properties
+//have methods
+//Call them
