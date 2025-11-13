@@ -1,5 +1,5 @@
-void main(){ 
-    int age = 17;
+void main(){
+    int age = 16;
     if (age >= 18)
     {
       print("You qualify to be a Kenyan citizen");

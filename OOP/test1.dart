@@ -1,5 +1,5 @@
 class Laptop {
-  //properties
+  //properties or attributes
 String brand;
 String model;
 int price;
@@ -8,7 +8,7 @@ int price;
 Laptop(this.brand , this.model , this.price);
 
 
-//method
+//method or function used to display the properties
 void showProperties() {
   print("Brand: $brand, Model: $model, Price: $price");
 }

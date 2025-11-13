@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   List<String> days_of_the_week = [
     "",
-    "Saturday",   
+    "Saturday",
     "Sunday",
     "Monday",
     "Tuesday",
@@ -27,19 +27,25 @@ void main() {
     print("Invalid day number. There are only seven days in a week, from day 1 to day 7");
     return;
   }
- if (day_num == 1) {
+if (day_num == 1) {
   print(days_of_the_week[1]);
- } else if (day_num == 2) {
+} else if (day_num == 2) {
   print(days_of_the_week[2]);
- } else if (day_num == 3) {
+} else if (day_num == 3) {
   print(days_of_the_week[3]);
- } else if (day_num == 4) {
+} else if (day_num == 4) {
   print(days_of_the_week[4]);
- } else if (day_num == 5) {
+} else if (day_num == 5) {
   print(days_of_the_week[5]);
- } else if (day_num == 6) {
+} else if (day_num == 6) {
   print(days_of_the_week[6]);
- } else if (day_num == 7) {
+} else if (day_num == 7) {
   print(days_of_the_week[7]);
- } 
 }
+
+
+String 
+
+
+}
+

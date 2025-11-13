@@ -1,6 +1,6 @@
-// is a special data structure that holds multiple values.
+//A collection is a special data structure that holds multiple values.
 
-// Lists-  holds items in an ordered collcetion of
+// Lists-  holds items in an ordered collcetion of similar data type
 
 void main() {
   List<String> stud_names = ["Almond", "Favoured", "Stanley", "Weisley"];

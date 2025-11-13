@@ -1,14 +1,14 @@
-class mydetails() {
-  String name = "UNKNOWN";
-  int age = 28;
+class MyDetails {
+String name = "UNKNOWN";
+int age = 28;
 
 
 
-void displayinfo() {
-  print("Name: $name, Age: $age");
+void displayInfo() {
+print("Name: $name, Age: $age");
 }
 void main() {
-  myDetails 1 = mydetails();
-  print("Name: ${1.name}, Age: ${1.age}");
+MyDetails obj = MyDetails();
+print("Name: ${obj.name}, Age: ${obj.age}");
 }
 }
