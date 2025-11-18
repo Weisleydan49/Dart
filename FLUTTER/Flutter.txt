@@ -1,0 +1,27 @@
+14 categories of widgets
+
+a. Design- Cupertino & material components
+b. Based-
+            Animation and motion
+            Accessibility- make flutter applications more accessible
+            Assets/Images & icons-take charge of assets such as displaying images
+            Async
+            Basics
+            Input-Provide input functionalities
+            Interaction models-Manage touch events
+            Layout-Bundles the widgets and help u place other widgets on the screen
+            Painting and effexts-Apply visual changes to tiled widgets without changing the layout of the widgrts
+            Scrolling-Enable scrollability
+            Styling
+            Text
+
+
+Types of widgets
+Stateless- once built, it's properties and state cannot be changed/immutable
+(display text, images and icons)
+Stateful- Widgets that can change/ mutable
+(Buttons, sliders, text fields)
+
+
+
+IMPLEMENTATION OF STATELESS AND STATEFUL Widgets
