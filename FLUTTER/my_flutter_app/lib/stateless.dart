@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
             fontWeight: FontWeight.bold,
 
             //setting color of the text
-            color: Colors.yellow,
+            color: Colors.black,
           ),
         ),
       ),

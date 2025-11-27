@@ -1,5 +1,7 @@
 abstract class Car {
+  //attribute
   String type;
+  //constructor
   Car(this.type);
 
   void start();
