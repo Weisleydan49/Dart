@@ -13,7 +13,6 @@ class Student extends Person{
 }
 
 
-
 void main(){
   Student student = Student();
   student.show();

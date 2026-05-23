@@ -2,8 +2,35 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/.dart_tool/widget_preview_scaffold/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/.dart_tool/widget_preview_scaffold/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/.dart_tool/widget_preview_scaffold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/gdg_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/.dart_tool/widget_preview_scaffold/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/.dart_tool/widget_preview_scaffold/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/.dart_tool/widget_preview_scaffold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/my_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/.dart_tool/widget_preview_scaffold/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/.dart_tool/widget_preview_scaffold/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/.dart_tool/widget_preview_scaffold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FLUTTER/test_app/test_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.dart_tool/widget_preview_scaffold/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.dart_tool/widget_preview_scaffold/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.dart_tool/widget_preview_scaffold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application_1/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

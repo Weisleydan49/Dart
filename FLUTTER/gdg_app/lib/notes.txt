@@ -1,0 +1,15 @@
+Types of widgets:
+
+- Widgets supporting a single child
+-widgets supporting a multiple child
+
+
+Layout Widgets
+1. Standard widgets
+    Containers- Is the most used widget in flutter(padding, margins, borders, bg colors)-supports a single child
+    Grid view
+    Stack
+    List View
+2. Material widgets
+
+

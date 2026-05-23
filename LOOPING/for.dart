@@ -1,7 +1,6 @@
-void main() 
+void main()
 {
-  for (int i = 0; i <= 5; i++)
-   {
+  for (int i = 0; i <= 5; i++){
     print("Hey there! $i ");
   }
 }

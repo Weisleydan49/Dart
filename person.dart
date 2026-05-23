@@ -34,7 +34,7 @@ class Person {
 }
 
 void main() {
-  var person = Person("Almond", "Noela", 2003);
+  var person = Person("Almond", "John", 2003);
   var person1 = Person("Weisley", "Dan", 1889); //Edit year to test condition
 
   print("Name: ${person.firstName} ${person.lastName}");
